@@ -35,7 +35,7 @@ The objective of this part is to implement and study a method of description and
 (c) Use existing Python functions to compare the description to other more "advanced" ones (e.g. SIFT). 
 
 
-3. PANORAMA (in progress ...)  
+### 3. PANORAMA (in progress ...)  
 The objective of this exercise is to use the matches found in the previous exercise to merge the 2 images and form a panorama.    
 
 3.1 Implementation of the DLT (direct linear transform) algorithm.   
