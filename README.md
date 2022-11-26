@@ -2,7 +2,8 @@
 
 In this lab, we propose to implement and study the functioning (influence of parameters, limitations, variants) of a detector and a descriptor in order to realize a panorama application. The implementation is done in Python.    
 
-### 1. DETECTION OF POINTS OF INTEREST  
+- ### 1. DETECTION OF POINTS OF INTEREST  
+--------------
 The objective of this part is to implement and study two algorithms for detecting points of interest.   
   
 1.1 Harris detector :  
@@ -20,7 +21,8 @@ The objective of this part is to implement and study two algorithms for detectin
 (a) Comparison of interest points detected by the Harris detector and the FAST detector.    
 (b) Use of existing Python functions to compare the detectors to those already implemented (Harris, FAST or others).    
 
-### 2. DESCRIPTION AND MATCHING OF INTEREST POINTS  
+- ### 2. DESCRIPTION AND MATCHING OF INTEREST POINTS 
+--------------
 The objective of this part is to implement and study a method of description and Matching of the points of interest detected in the previous exercise.  
   
 2.1 Simple description: Using an intensity block    
@@ -35,7 +37,8 @@ The objective of this part is to implement and study a method of description and
 (c) Use existing Python functions to compare the description to other more "advanced" ones (e.g. SIFT). 
 
 
-### 3. PANORAMA (in progress ...)  
+- ### 3. PANORAMA (in progress ...)  
+--------------
 The objective of this exercise is to use the matches found in the previous exercise to merge the 2 images and form a panorama.    
 
 3.1 Implementation of the DLT (direct linear transform) algorithm.   
